@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- <string-array name="feedbacktypelist">
+		<item>@string/O_positive</item>
+		<item>@string/O_negative</item>
+		<item>@string/A_positive</item>
+		<item>@string/A_negative</item>
+		<item>@string/B_positive</item>
+		<item>@string/B_negative</item>
+		<item>@string/AB_positive</item>
+		<item>@string/AB_negative</item>
+	</string-array> -->
+	<string-array name="feedbacktypelist">
+		<item>@string/O</item>
+		<item>@string/A</item>
+		<item>@string/B</item>
+		<item>@string/AB</item>
+	</string-array>
+</resources>
